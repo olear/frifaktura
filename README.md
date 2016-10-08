@@ -1,0 +1,2 @@
+# frifaktura
+Fritt faktureringsprogram
